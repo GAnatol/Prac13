@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="screen_padding">24.dp</dimen>
+    <dimen name="padding">12.dp</dimen>
+    <dimen name="shape_size">12.dp</dimen>
+    <dimen name="spacer">8.dp</dimen>
+</resources>

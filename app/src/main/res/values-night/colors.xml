@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary">#FF7BCBB4</color>
+    <color name="on_primary">#FF11151D</color>
+
+    <color name="secondary">#FFE09584</color>
+
+    <color name="background">#FF161A24</color>
+    <color name="on_background">#FFD1D7E0</color>
+
+    <color name="surface">#FF212634</color>
+    <color name="on_surface">#FFD1D7E0</color>
+
+    <color name="error">#FFE57373</color>
+
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+</resources>

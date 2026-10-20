@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="title">Товары</string>
+    <string name="subtitle">количество нажатий на текст</string>
+
+    <plurals name="description">
+        <!-- 1, 21, 31... -->
+        <item quantity="one">%1$d товар</item>
+
+        <!-- 2, 3, 4, 22, 23, 24... -->
+        <item quantity="few">%1$d товара</item>
+
+        <!-- 0, 5-20, 25-30... -->
+        <item quantity="many">%1$d товаров</item>
+        <item quantity="other">%1$d товаров</item>
+    </plurals>
+
+    <string name="card">карточка</string>
+    <string name="error">ошибка</string>
+    <string name="theme_night">Тёмная тема:</string>
+</resources>

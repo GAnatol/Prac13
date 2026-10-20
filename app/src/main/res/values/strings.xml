@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="title">Products</string>
+    <string name="subtitle">number of clicks on products</string>
+
+    <plurals name="description">
+        <!-- 1, 21, 31... -->
+        <item quantity="one">%1$d product</item>
+
+        <item quantity="other">%1$d products</item>
+    </plurals>
+
+    <string name="card">card</string>
+    <string name="error">error</string>
+    <string name="theme_night">Night theme:</string>
+</resources>
